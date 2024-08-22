@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true", // Use local storage emulator
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "6b3b2d_STORAGE": "UseDevelopmentStorage=true"
+  }
+}
