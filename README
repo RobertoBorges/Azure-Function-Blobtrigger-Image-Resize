@@ -1,0 +1,11 @@
+## Requirements
+
+- node.js
+- npm
+- azurit
+- azure functions core tools
+
+## Running the project
+
+- CTRL + SHIFT + p -> Azurit: Start
+- F5
